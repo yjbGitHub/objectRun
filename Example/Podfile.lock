@@ -1,28 +1,11 @@
 PODS:
-  - AFNetworking (3.2.0):
-    - AFNetworking/NSURLSession (= 3.2.0)
-    - AFNetworking/Reachability (= 3.2.0)
-    - AFNetworking/Security (= 3.2.0)
-    - AFNetworking/Serialization (= 3.2.0)
-    - AFNetworking/UIKit (= 3.2.0)
-  - AFNetworking/NSURLSession (3.2.0):
-    - AFNetworking/Reachability
-    - AFNetworking/Security
-    - AFNetworking/Serialization
-  - AFNetworking/Reachability (3.2.0)
-  - AFNetworking/Security (3.2.0)
-  - AFNetworking/Serialization (3.2.0)
-  - AFNetworking/UIKit (3.2.0):
-    - AFNetworking/NSURLSession
-  - objectRun (0.1.0):
-    - AFNetworking
+  - objectRun (0.1.0)
 
 DEPENDENCIES:
   - objectRun
 
 SPEC CHECKSUMS:
-  AFNetworking: 8ac6017b94ea105479f7776e5288e48ae9c59bb4
-  objectRun: 242cf7c16019978e0c4d4f6f1cb77e3f724aeb55
+  objectRun: 7db2af308fb9c4bf473d9316d1322fe009701231
 
 PODFILE CHECKSUM: 4b09c07f243b9e23db19785953789716e1e9f7b0
 
