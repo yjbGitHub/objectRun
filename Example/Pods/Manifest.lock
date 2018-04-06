@@ -2,15 +2,11 @@ PODS:
   - objectRun (0.1.0)
 
 DEPENDENCIES:
-  - objectRun (from `../`)
-
-EXTERNAL SOURCES:
-  objectRun:
-    :path: ../
+  - objectRun
 
 SPEC CHECKSUMS:
-  objectRun: 5ad88130ba942a0287bf41965ad7fe55a34fd2d4
+  objectRun: 1bf3835965da782cad44b91664cd4c59de3c5f6c
 
-PODFILE CHECKSUM: 9a21bffb4600850ee73d756f139b11c8710e9590
+PODFILE CHECKSUM: 31dc617419748a63b953f022ec2c2be30ccec82b
 
 COCOAPODS: 1.4.0

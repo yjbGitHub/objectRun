@@ -1,7 +1,8 @@
-use_frameworks!
-
+source 'git@github.com:yjbGitHub/uni_podspec.git'
 target 'objectRun_Example' do
-  pod 'objectRun', :path => '../'
+    use_frameworks!
+#  pod 'objectRun', :path => '../'
+    pod 'objectRun'
 
   target 'objectRun_Tests' do
     inherit! :search_paths
