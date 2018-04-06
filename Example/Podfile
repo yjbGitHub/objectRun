@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'objectRun_Example' do
+  pod 'objectRun', :path => '../'
+
+  target 'objectRun_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
