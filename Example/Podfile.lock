@@ -1,0 +1,16 @@
+PODS:
+  - objectRun (0.1.0)
+
+DEPENDENCIES:
+  - objectRun (from `../`)
+
+EXTERNAL SOURCES:
+  objectRun:
+    :path: ../
+
+SPEC CHECKSUMS:
+  objectRun: 5ad88130ba942a0287bf41965ad7fe55a34fd2d4
+
+PODFILE CHECKSUM: 9a21bffb4600850ee73d756f139b11c8710e9590
+
+COCOAPODS: 1.4.0

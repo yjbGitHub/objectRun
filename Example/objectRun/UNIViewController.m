@@ -7,7 +7,7 @@
 //
 
 #import "UNIViewController.h"
-
+#import "NSObject+UNIRuntime.h"
 @interface UNIViewController ()
 
 @end
@@ -18,6 +18,8 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    NSLog(@"%@", [UIView uni_propertiesList]);
 }
 
 - (void)didReceiveMemoryWarning

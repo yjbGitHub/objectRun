@@ -1,0 +1,6 @@
+framework module objectRun {
+  umbrella header "objectRun-umbrella.h"
+
+  export *
+  module * { export * }
+}
