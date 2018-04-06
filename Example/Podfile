@@ -1,4 +1,5 @@
 source 'git@github.com:yjbGitHub/uni_podspec.git'
+source 'https://github.com/CocoaPods/Specs.git'
 target 'objectRun_Example' do
     use_frameworks!
 #  pod 'objectRun', :path => '../'
